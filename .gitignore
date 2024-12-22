@@ -1,0 +1,13 @@
+*.psd
+*.pyc
+*.log
+config.ini
+log/
+
+\.project
+
+\.pydevproject
+
+\.settings/
+
+\.idea/
